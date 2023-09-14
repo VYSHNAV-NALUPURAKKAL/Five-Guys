@@ -1,0 +1,22 @@
+.right-top>img{
+    object-fit:cover;
+    width:100%;
+}
+.right-bottom>img{
+    object-fit: cover;
+    width:100%;
+}
+.footer-left{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.fiveguyswhite{
+    padding-left: 13px;
+    width:274px;
+    height: 35.05px;
+}
+.googleplay{
+    width: 150px;
+}
